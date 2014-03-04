@@ -43,4 +43,9 @@ Note that this is an educational proyect, is never going to be used for commerci
      * limitations under the License.
      */
      
-Also this proyect may not be finished without the pieces of code obtained from Anders Kalør and Dropbox Inc, each one compiled with the corresponding licenses.
+Also this proyect may not be finished without the pieces of code obtained from Anders Kalør and Dropbox Inc, each one
+compiled with the corresponding licenses.
+
+This is a still growing proyect so any contribution will be much appreciated. Feel free to contact me on
+sak.naxete@gmail.com or contribute with bug fixes or new funcitonality and I will try to answer you/include them as
+soon as posible.

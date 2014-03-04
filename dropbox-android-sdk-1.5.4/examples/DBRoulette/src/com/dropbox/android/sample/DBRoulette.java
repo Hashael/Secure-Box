@@ -67,8 +67,8 @@ public class DBRoulette extends Activity {
     // Note that this is a really insecure way to do this, and you shouldn't
     // ship code which contains your key & secret in such an obvious way.
     // Obfuscation is good.
-    final static private String APP_KEY = "twk7t2lq42tdtul";
-    final static private String APP_SECRET = "g0swvxtp93wxy22";
+    final static private String APP_KEY = "*********";
+    final static private String APP_SECRET = "*********";
 
     // If you'd like to change the access type to the full Dropbox instead of
     // an app folder, change this value.

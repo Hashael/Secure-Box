@@ -19,7 +19,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity {
 
-    static final String APP_KEY = "d6w7qpagjn3zvhr";
+    static final String APP_KEY = "*********";
     static final int DBX_CHOOSER_REQUEST = 0;  // You can change this if needed
 
     private Button mChooserButton;

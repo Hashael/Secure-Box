@@ -6,7 +6,10 @@ Dropbox secure use module for Android
 
 This proyect allows the use of the Dropbox platform with an extra layer of security which will encrypt the files uploaded to this site before really uploading them. In order to use it, you will need to change the APP-keys:
 
-In **DBRoulette.java** file:
+1. Configure your workspace and proyect dependencies to link properly both Dropbox Core API and Dropbox Chooser with it, by following the instructions in: https://www.dropbox.com/developers/core/sdks/android and
+https://www.dropbox.com/developers/dropins/chooser/android To make it easier I included the Dropbox piece of codes necessaries in this repository.
+
+2. In **DBRoulette.java** file:
 
     ///////////////////////////////////////////////////////////////////////////
     //                      Your app-specific settings.                      //

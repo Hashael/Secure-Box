@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Box</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="accept">akzeptieren</string> 
+
+    <string name="cancel">stornieren</string>
+    <string name="cancelled">Abgesagt!</string>
+    
+    <string name="decrypt">Datei entschlüsseln</string>
+    <string name="download_file">Datei herunterladen</string>
+    <string name="dropbox_logo">Dropbox Logo</string>
+
+    <string name="empty">Keine Dateien oder Verzeichnisse</string>
+    <string name="encrypt">Datei verschlüsseln</string>
+    <string name="enter">eingeben</string>
+    <string name="error">Fehler</string>
+    <string name="error_auth">Hätte nicht mit Dropbox authentifizieren</string>
+    <string name="error_auth2">Diese App wurde nicht korrekt authentifiziert</string>
+    <string name="error_enc">Fehler Encrypting!</string>
+    <string name="error_dec">Fehler Decripting!</string>
+    <string name="error_net">Netzwerkfehler</string>
+    <string name="error_dpx">Dropbox Fehler</string>
+    <string name="error_ukw">uknown Fehler</string>
+    <string name="error_crt">
+        Hätte nicht eine lokale Datei, um das Bild zu speichern</string>
+    <string name="exit">Beenden</string>
+
+    <string name="file_encrypted">Verschlüsselte Datei!</string>
+    <string name="file_decrypted">Datei entschlüsselt!</string>
+    <string name="file_decrypted_downloaded">
+        Datei entschlüsselt und in Downloads heruntergeladen!</string>
+    <string name="file_empty">Datei oder leeres Verzeichnis</string>
+
+    <string name="get_new_account">Holen Sie sich ein neues Konto</string>
+
+    <string name="login">LogIn</string>
+    <string name="login_failed">Anmeldung fehlgeschlagen</string>
+    <string name="logo">Kangaroo Logo</string>
+    <string name="link_dropbox">Verknüpfung mit Dropbox</string>
+    
+    <string name="missing_data">Fehlende Daten</string>
+
+    <string name="new_user">Neuer Benutzer</string>
+    <string name="new_user_added">Neue Benutzer zu der Datenbank hinzugefügt</string>
+    <string name="no">nicht</string>
+    <string name="no_pictures">Keine Bilder in diesem Verzeichnis</string>
+
+    <string name="password">Passwort</string>
+    <string name="password_again">Kennwort erneut</string>
+    <string name="password_missmatch">Passwort missmatch</string>
+    
+    <string name="quit_title">Beenden</string>
+    <string name="quit_message">Sicher, dass Sie wollen, um zu beenden?</string>
+    
+    <string name="try_again">versuchen Sie es erneut</string>
+    
+    <string name="user">Benutzernamen</string>
+    <string name="upload_file">Datei hochladen</string>
+    <string name="uploaded_file">Datei erfolgreich hochgeladen!</string>
+    <string name="uploading">Hochladen </string>
+    
+    <string name="welcome">Willkommen auf Secure Box!</string>
+    
+    <string name="yes">Ja</string>
+</resources>

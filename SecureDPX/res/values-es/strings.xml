@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secure Box</string>
+    <string name="action_settings">Configuración</string>
+    <string name="accept">Aceptar</string>
+    
+    <string name="cancel">Cancelar</string>
+    <string name="cancelled">Cancelado!</string>
+    
+    <string name="decrypt">Descifrar Fichero</string>
+    <string name="download_file">Descargar Fichero</string>
+    <string name="dropbox_logo">Dropbox Logo</string>
+    
+    <string name="empty">Sin archivos ni directorios</string>
+    <string name="encrypt">Descifrar Fichero</string>
+    <string name="enter">Entrar</string>
+    <string name="error">Error</string>
+    <string name="error_auth">No pudo autenticar con Dropbox</string>
+    <string name="error_auth2">La APP no fue autenticada correctamente</string>
+    <string name="error_enc">Error al Cifrar!</string>
+    <string name="error_dec">Error al Descifrar!</string>
+    <string name="error_net">Error de Red</string>
+    <string name="error_dpx">Error de Dropbox</string>
+    <string name="error_ukw">Error Desconocido</string>
+    <string name="error_crt">
+        No se puede crear un archivo local</string>
+    <string name="exit">Salir</string>
+    
+    <string name="file_encrypted">Fichero Encriptado!</string>
+    <string name="file_decrypted">Fichero Desencriptado!</string>
+    <string name="file_decrypted_downloaded">
+        Fichero desencriptado y guardado en Descargas!</string>
+    <string name="file_empty">Archivo o Directorio vacío</string>
+    
+    <string name="get_new_account">Obtén una nueva cuenta</string>
+    
+    <string name="login">Entrar</string>
+    <string name="login_failed">Login Falló</string>
+    <string name="logo">Kangaroo Logo</string>
+    <string name="link_dropbox">Enlazar con Dropbox</string>
+    
+    <string name="missing_data">Datos perdidos</string>
+    
+    <string name="new_user">Nuevo Usuario</string>
+    <string name="new_user_added">Nuevo usuario añadido a la base de datos</string>
+    <string name="no">No</string>
+    <string name="no_pictures">No hay imágenes en ese directorio</string>
+    
+    <string name="password">contraseña</string>
+    <string name="password_again">contraseña de nuevo</string>
+    <string name="password_missmatch">las contrseñas no coinciden</string>
+    
+    <string name="quit_title">Salir</string>
+    <string name="quit_message">¿Seguro que quiere salir?</string>
+    
+    <string name="try_again">Inténtalo de nuevo</string>
+    
+    <string name="user">usuario</string>
+    <string name="upload_file">Subir Fichero</string>
+    <string name="uploaded_file">Archivo subido con éxito!</string>
+    <string name="uploading">Subiendo </string>
+    
+    <string name="welcome">Bienvenido a Secure Box!</string>
+    
+    <string name="yes">Sí</string>
+</resources>
